@@ -5,6 +5,7 @@ My name is Ophelia Yang and I am a junior Math of Computation major at UCLA.
 <details>
   <summary>Some things I'm currently learning...</summary>
   <br>
+  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
   - Front end/full stack development
   - Computer vision and image registration
   - Brains!

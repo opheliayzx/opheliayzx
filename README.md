@@ -3,11 +3,11 @@ My name is Ophelia Yang and I am a junior Math of Computation major at UCLA.
 
 
 <details>
-  <summary>Some things I'm working on😶</summary>
+  <summary>Some things I'm currently learning...</summary>
   <br>
-
-  - 📚📚📚
-  - 💫💫💫
+  - Front end/full stack development
+  - Computer vision and image registration
+  - Brains!
 
   <br><br>
 </details>

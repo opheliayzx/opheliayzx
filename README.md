@@ -6,7 +6,7 @@ My name is Ophelia Yang and I am a junior Math of Computation major at UCLA.
   <summary>Some things I'm currently learning...</summary>
   <br>
 
-  - Front end/full stack development
+  - Front-end + full stack development
   - Computer vision and image registration
   - Brains!
   

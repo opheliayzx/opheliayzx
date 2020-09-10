@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Ophelia Yang and I am currently a junior Math of Computation major at UCLA.
 
 <!--
 **opheliayzx/opheliayzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

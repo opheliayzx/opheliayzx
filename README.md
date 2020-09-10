@@ -3,13 +3,11 @@ My name is Ophelia Yang and I am a junior Math of Computation major at UCLA.
 
 
 <details>
-  <summary>Some things I'm trying to work on 😶</summary>
+  <summary>Some things I'm working on😶</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
-  - 
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
+  - 📚📚📚
+  - 💫💫💫
 
   <br><br>
 </details>

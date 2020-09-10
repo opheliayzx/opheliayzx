@@ -3,7 +3,7 @@ My name is Ophelia Yang and I am a junior Math of Computation major at UCLA.
 
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some things I'm trying to work on 😶</summary>
   <br>
   <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 

@@ -1,5 +1,5 @@
 ### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Ophelia Yang and I am a junior Math of Computation major at UCLA.
+My name is Ophelia and I'm a junior at UCLA.
 
 
 <details>

@@ -3,7 +3,7 @@ My name is Ophelia and I'm a junior at UCLA.
 
 
 <details>
-  <summary>Some things I'm currently learning...</summary>
+  <summary>Some things I'm currently learning about...</summary>
   <br>
 
   - Front-end + full stack development

@@ -1,7 +1,8 @@
 ### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Ophelia and I'm a junior at UCLA.
+My name is Ophelia and I'm a junior math of computation major at UCLA.
 
 
+<!--
 <details>
   <summary>Some things I'm currently learning about...</summary>
   <br>
@@ -11,7 +12,7 @@ My name is Ophelia and I'm a junior at UCLA.
   
   <br><br>
 </details>
-
+-->
 
 <!--
 **opheliayzx/opheliayzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

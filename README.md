@@ -1,4 +1,4 @@
-### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">
 My name is Ophelia and I'm a senior math of computation major at UCLA.
 
 

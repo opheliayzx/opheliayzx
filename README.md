@@ -3,7 +3,7 @@
 My name is Ophelia and I'm a senior math of computation major at UCLA.
 
 
-<!--
+
 <details>
   <summary>Some things I'm currently learning about...</summary>
   <br>
@@ -13,7 +13,6 @@ My name is Ophelia and I'm a senior math of computation major at UCLA.
   
   <br><br>
 </details>
--->
 
 
 **opheliayzx/opheliayzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

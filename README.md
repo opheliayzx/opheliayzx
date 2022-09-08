@@ -1,3 +1,4 @@
+<!--
 ### Hey there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">
 My name is Ophelia and I'm a senior math of computation major at UCLA.
 
@@ -14,7 +15,7 @@ My name is Ophelia and I'm a senior math of computation major at UCLA.
 </details>
 -->
 
-<!--
+
 **opheliayzx/opheliayzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
